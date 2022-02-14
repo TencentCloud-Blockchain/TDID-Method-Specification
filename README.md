@@ -152,6 +152,10 @@ the tencent cloud api url
 {TDID Document}
 ```
 
+### Update
+
+DID Document does not support update.
+
 ### Delete
 
 ```bash
